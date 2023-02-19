@@ -3,8 +3,8 @@
   flex-direction: column;
   width: 480px;
   padding: 12px;
-  background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.12);
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 3px solid #00aced;
   border-radius: 4px;
 }
 
@@ -12,6 +12,7 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
+  color: #00aced;
 }
 
 .feedback-form button {
@@ -24,6 +25,10 @@ input,
 textarea {
   padding: 8px;
   font: inherit;
+  background: rgba(0, 0, 0, 0.6);
+  border: 3px solid #00aced;
+  color: #00aced;
+  outline-color: #fff352;
 }
 
 /* textarea {
