@@ -10,7 +10,7 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
-  background: url(../js.jpg) center / cover no-repeat;
+  background: url(../image/js.jpg) center / cover no-repeat;
   min-height: 100vh;
 }
 
