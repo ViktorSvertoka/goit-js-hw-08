@@ -1,7 +1,7 @@
 .feedback-form {
   display: flex;
   flex-direction: column;
-  max-width: 480px;
+  width: 480px;
   padding: 12px;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.12);
@@ -26,6 +26,6 @@ textarea {
   font: inherit;
 }
 
-textarea {
+/* textarea {
   resize: none;
-}
+} */
