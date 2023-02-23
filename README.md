@@ -1,3 +1,5 @@
+**Read in other languages: [Українська](README.md), [English](README.en.md).**
+
 # Критерії приймання
 
 - Створено репозиторій `goit-js-hw-08`.
