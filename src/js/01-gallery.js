@@ -1,13 +1,13 @@
-//? Add imports above this line
+// Add imports above this line
+import { galleryItems } from './gallery-items';
 
 // Описаний в документації
 import SimpleLightbox from 'simplelightbox';
+
 // Додатковий імпорт стилів
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-import { galleryItems } from './gallery-items';
-
-//? Change code below this line
+// Change code below this line
 
 const galleryContainer = document.querySelector('.gallery');
 const galleryCardsSet = createGallery(galleryItems);
